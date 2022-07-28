@@ -1,3 +1,14 @@
-.exploring{
-    margin-left: 50%;
+.customize{
+    height: 100%;
+    width: 100%;
+    left: 0%;
+    right: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    bottom: 0;
+}
+.customize-tow{
+    width: 40%;
 }
